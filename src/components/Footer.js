@@ -76,7 +76,7 @@ function Footer() {
      </div> 
      <div className="footerpara">
      
-     <p><span><NavLink to="/policies">privacy Policies</NavLink></span> . <span><NavLink to="/policies"> terms & condition</NavLink></span></p>
+     <p className='m-0'><span><NavLink to="/policies">privacy Policies</NavLink></span> . <span><NavLink to="/policies"> terms & condition</NavLink></span></p>
      </div>
 
      

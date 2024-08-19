@@ -47,7 +47,7 @@ function App() {
 
       <Footer />
 
-      <Paymenttest />
+      {/* <Paymenttest /> */}
     </>
   );
 }

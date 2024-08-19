@@ -51,7 +51,7 @@ function Homesec6() {
     
     </div>
 
-  <Donation/>
+  {/* <Donation/> */}
     
     </>
   )
