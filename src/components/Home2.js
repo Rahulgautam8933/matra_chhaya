@@ -20,7 +20,7 @@ function Home2() {
         <div className="home21">
 
 <div className="home2container">
-<div className="home2imgback"></div>
+{/* <div className="home2imgback"></div> */}
     <div className="home2boxs">
         <div className="home2box">
             <div className="home2contentbox">
