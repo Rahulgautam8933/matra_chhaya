@@ -1,6 +1,6 @@
 {
   "name": "nishuwelfare",
-  "homepage": "http://nishuwelfare.com/",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
