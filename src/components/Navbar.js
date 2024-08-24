@@ -18,7 +18,7 @@ function Navbar({openSidebar}) {
 
 <div className="navbarlinkscontainer">
 
-<div className="navback">.</div>
+{/* <div className="navback">.</div> */}
 
 <ul>
 

@@ -15,6 +15,7 @@ function Home2() {
     <>
       {/* <div id="home21">
         <div className="home21">
+
           <div className="home2container">
             <div className="home2imgback"></div>
             <div className="home2boxs">
@@ -33,6 +34,8 @@ function Home2() {
                     </button>
                     {showModal && <Payment close={closeModel} />}
                   </div>
+
+
                 </div>
               </div>
               <div className="home2box">
