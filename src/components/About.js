@@ -50,7 +50,29 @@ function About() {
         </div>
 
 
-        <div className="homesec3container1">
+
+        <div style={{width:"85%",margin:"auto"}} className='row my-5 py-4'>
+          <div className='col-sm-12 col-md-6'>
+          <div className="" id=''>
+              <h1>Wellcome to our Charity</h1>
+              <hr />
+              <p>Welcome to Matra Chhaya Seva Sansthan Foundation,Women empowerment (NGO) a non-profit organization dedicated to providing free training in sewing and embroidery to women in need. We believe that every woman deserves the opportunity to learn new skills and earn a livelihood for themselves and their families. <br /> <br />
+               
+                   </p>
+                  
+             
+            </div>
+          </div>
+          <div className='col'>
+          <div className="">
+              <img style={{width:"100%"}} src={welcome} alt="img" />
+            </div>
+          </div>
+          
+        </div>
+
+
+        {/* <div className="homesec3container1">
 
           <div className="homesec3cards">
             <div className="homesec3card" id='homesec3card'>
@@ -70,7 +92,7 @@ function About() {
             </div>
           </div>
 
-        </div>
+        </div> */}
 
 
         <div className="aboutseccoutcontaner">
