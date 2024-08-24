@@ -2,6 +2,12 @@
   margin: 0;
   padding: 0;
 }
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
 
 @media (min-width: 05px) and (max-width: 500px) {
   /* ====================== */
@@ -1780,7 +1786,7 @@
   }
 
   .home2button button {
-    background-color: rgb(40 40 139);
+    background-color: rgb(22 22 74);
     color: white;
     font-size: 1.1rem;
     padding: 0.5rem;
@@ -1789,7 +1795,7 @@
   }
 
   .home2button button:hover {
-    background-color: rgb(11, 11, 68);
+    background-color: rgb(22 22 74);
   }
 
   .home2box .home2imgs {
@@ -3773,7 +3779,7 @@
   }
 
   .home2button button {
-    background-color: rgb(40 40 139);
+    background-color: rgb(22 22 74);
     color: white;
     font-size: 1.1rem;
     padding: 0.5rem;
@@ -3782,7 +3788,7 @@
   }
 
   .home2button button:hover {
-    background-color: rgb(11, 11, 68);
+    background-color:rgb(22 22 74);
   }
 
   .home2box .home2imgs {
@@ -5835,7 +5841,7 @@
   }
 
   .home2button button {
-    background-color: rgb(40 40 139);
+    background-color: rgb(22 22 74);
     color: white;
     font-size: 1.1rem;
     padding: 0.5rem;
@@ -7873,7 +7879,7 @@
   }
 
   .home2button button {
-    background-color: rgb(40 40 139);
+    background-color: rgb(22 22 74);
     color: white;
     font-size: 1.1rem;
     padding: 0.5rem;
@@ -7882,7 +7888,7 @@
   }
 
   .home2button button:hover {
-    background-color: rgb(11, 11, 68);
+    background-color: rgb(22 22 74);
   }
 
   .home2box .home2imgs {
