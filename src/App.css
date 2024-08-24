@@ -1177,7 +1177,8 @@ p {
   }
 
   .causesboxcontent h3 {
-    font-size: 1.9rem;
+    /* font-size: 1.9rem; */
+    font-style: 24px;
   }
 
   .causesbutton button {
@@ -1677,7 +1678,9 @@ p {
 
   .contactheader h1 {
     font-size: 3rem;
-    padding: 4rem;
+
+    padding: 6rem;
+
   }
 
   .contactformcontainer {
@@ -3670,7 +3673,9 @@ p {
 
   .contactheader h1 {
     font-size: 3rem;
-    padding: 5rem;
+
+    padding: 6rem;
+
   }
 
   .contactformcontainer {
@@ -5730,7 +5735,9 @@ p {
 
   .contactheader h1 {
     font-size: 3rem;
-    padding: 5rem;
+
+    padding: 6rem;
+
   }
 
   .contactformcontainer {
@@ -6805,8 +6812,11 @@ p {
   }
 
   .contactheader h1 {
+
+    padding: 10rem;
+
     font-size: 6rem;
-    padding: 6rem;
+   
     margin-top: 1rem;
   }
 
@@ -6992,7 +7002,8 @@ p {
   }
 
   .causesboxcontent h3 {
-    font-size: 1.9rem;
+    /* font-size: 1.9rem; */
+    font-style: 24px;
   }
 
   .causesbutton button {
@@ -8717,8 +8728,11 @@ p {
   }
 
   .contactheader h1 {
-    font-size: 6rem;
-    padding: 6rem;
+
+  
+    padding: 10rem;
+
+   
     margin-top: 1rem;
   }
 
@@ -8903,7 +8917,8 @@ p {
   }
 
   .causesboxcontent h3 {
-    font-size: 1.9rem;
+    /* font-size: 1.9rem; */
+    font-style: 24px;
   }
 
   .causesbutton button {
@@ -10531,8 +10546,9 @@ p {
   }
 
   .contactheader h1 {
-    font-size: 6rem;
-    padding: 6rem;
+
+    padding: 10rem;
+
     margin-top: 1rem;
   }
 
@@ -10719,7 +10735,8 @@ p {
   }
 
   .causesboxcontent h3 {
-    font-size: 1.9rem;
+    /* font-size: 1.9rem; */
+    font-style: 24px;
   }
 
   .causesbutton button {

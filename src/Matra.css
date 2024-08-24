@@ -63,7 +63,9 @@ body {
   content: "";
   width: 100%;
   height: 100%;
-  background: linear-gradient(#0dcaf0, rgb(255, 23, 131));
+  /* background: linear-gradient(#0dcaf0, rgb(255, 23, 131)); */
+
+  background: linear-gradient(rgba(255, 145, 0, 0.906), rgba(22, 22, 74, 0.539));
   position: absolute;
   left: 0%;
   top: -98%;
