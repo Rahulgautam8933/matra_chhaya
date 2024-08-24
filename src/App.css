@@ -9,6 +9,19 @@ p {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.heading{
+  font-size: 34px;
+}
+.subheading{
+  font-size: 28px;
+}
+
+.para{
+  font-size: 18px;
+  /* font-family: ; */
+}
+
+
 @media (min-width: 05px) and (max-width: 500px) {
   /* ====================== */
   /* navbar */
