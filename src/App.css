@@ -1,12 +1,17 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 34px;
 }
 p {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  /* font-family: monospace, "Times New Roman", Times, serif; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: justify;
 }
 
 @media (min-width: 05px) and (max-width: 500px) {
@@ -3788,7 +3793,7 @@ p {
   }
 
   .home2button button:hover {
-    background-color:rgb(22 22 74);
+    background-color: rgb(22 22 74);
   }
 
   .home2box .home2imgs {
@@ -5217,7 +5222,8 @@ p {
   }
 
   .causesboxcontent h3 {
-    font-size: 1.9rem;
+    /* font-size: 1.9rem; */
+    font-size: 24px;
   }
 
   .causesbutton button {
